@@ -1,0 +1,1 @@
+input = [[ N,P,K,TEMP,HUM,PH]]
